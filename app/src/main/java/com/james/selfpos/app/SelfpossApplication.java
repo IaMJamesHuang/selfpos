@@ -33,6 +33,7 @@ public class SelfpossApplication extends Application {
 
     private void initUt() {
         //UtManager依赖于AppInfo的参数，需要先初始化AppInfo，以后再解耦
+        //todo 解耦
         UTManager.getInstance().init();
     }
 
