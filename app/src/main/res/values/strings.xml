@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SelfPos</string>
+    <string name="rest_time">本次交易剩余时间%1$d秒</string>
 </resources>

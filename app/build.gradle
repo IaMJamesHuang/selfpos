@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'icon-version'
 
 android {
     compileSdkVersion 28
